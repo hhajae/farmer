@@ -1,0 +1,32 @@
+[
+    {
+        "plantId": 1,
+        "plantName": "토마토",
+        "isFavorite": true,
+        "isService": true
+    },
+    {
+        "plantId": 2,
+        "plantName": "고추",
+        "isFavorite": true,
+        "isService": true
+    },
+    {
+        "plantId": 3,
+        "plantName": "상추",
+        "isFavorite": false,
+        "isService": false
+    },
+    {
+        "plantId": 4,
+        "plantName": "깻잎",
+        "isFavorite": false,
+        "isService": false
+    },
+    {
+        "plantId": 5,
+        "plantName": "배추",
+        "isFavorite": false,
+        "isService": false
+    }
+]
