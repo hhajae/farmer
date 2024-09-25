@@ -1,0 +1,31 @@
+[
+    {
+        "placeId": 1,
+        "placeName": "베란다",
+        "isFavorite": false,
+        "isRecommend": true,
+        "isService": true
+    },
+    {
+        "placeId": 2,
+        "placeName": "주말농장",
+        "isFavorite": false,
+        "isRecommend": false,
+        "isService": true
+    },
+    {
+        "placeId": 3,
+        "placeName": "개인 텃밭",
+        "isFavorite": false,
+        "isRecommend": false,
+        "isService": false
+    },
+    {
+        "placeId": 4,
+        "placeName": "스쿨팜",
+        "isFavorite": false,
+        "isRecommend": false,
+        "isService": false
+    }
+]
+
